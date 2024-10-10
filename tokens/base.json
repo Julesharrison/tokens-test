@@ -1,0 +1,24 @@
+{
+  "color": {
+    "white": {
+      "$type": "color",
+      "$value": "#fff"
+    },
+    "primary900": {
+      "$type": "color",
+      "$value": "#DC1E83"
+    },
+    "extended": {
+      "forest": {
+        "$type": "color",
+        "$value": "#11776D"
+      }
+    }
+  },
+  "border-radius": {
+    "pill": {
+      "$type": "borderRadius",
+      "$value": "30"
+    }
+  }
+}
